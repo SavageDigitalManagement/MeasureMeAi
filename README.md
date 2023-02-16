@@ -1,1 +1,1 @@
-# MeasureMeAi
+# MeasureMeAi(Opencv application that uses mediapipe to calculate angle live on athletes and dancers. Displays angle measurements on screen and can track rate of change of angle while subject is rotating.)
